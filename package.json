@@ -80,9 +80,6 @@
     "typescript": "^4.9.5",
     "vercel": "39.1.1"
   },
-  "overrides": { 
-    "vercel": "$vercel"
-  },
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx}": [
       "eslint --max-warnings=0",
